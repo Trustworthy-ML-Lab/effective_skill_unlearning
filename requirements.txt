@@ -1,0 +1,10 @@
+datasets==2.18.0
+matplotlib==3.7.1
+multiprocess==0.70.16
+numpy==1.25.2
+tqdm==4.66.2
+git+https://github.com/huggingface/transformers.git
+torch==2.2.1
+regex==2023.12.25
+tree_sitter==0.21.3
+tree_sitter_languages==1.10.2

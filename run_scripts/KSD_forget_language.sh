@@ -1,0 +1,2 @@
+TEST_LANG="en" # Change to the language you want to test
+python MLQA_evaluation.py --adjust_neuron_info_path ./experiment_results/forget_layer_info/forget_en_llama_3_8b.pkl --rule steer --language $TEST_LANG --model llama-3-8b

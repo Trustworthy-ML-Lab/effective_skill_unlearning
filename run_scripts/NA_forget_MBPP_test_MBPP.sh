@@ -1,0 +1,1 @@
+python MBPP_evaluation.py --adjust_neuron_info_path ./experiment_results/forget_layer_info/forget_MBPP_retain_GSM8K_llama_3_8b_3dot0_percent.pkl --model llama-3-8b --rule adjust --file_postfix forget_MBPP
